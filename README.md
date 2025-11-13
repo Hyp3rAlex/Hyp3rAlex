@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexander yordanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander yordanov" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/alexander-yordanov-04b242245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander yordanov" height="30" width="40" /></a>
 <a href="https://instagram.com/__yordanoww7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__yordanoww7777" height="30" width="40" /></a>
-<a href="https://discord.gg/HyperAlex1103#7091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HyperAlex1103#7091" height="30" width="40" /></a>
+<a href="[https://discord.gg/HyperAlex1103#7091](https://discord.gg/EMRqDHGz)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HyperAlex1103#7091" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
